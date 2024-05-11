@@ -28,12 +28,6 @@
 <img src="https://skillicons.dev/icons?i=vscode"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# 📊 GitHub Stats:
-![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracyatt&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tracyatt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tracyatt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-NOTE: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 # Contact Me ☎️
