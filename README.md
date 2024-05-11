@@ -31,7 +31,7 @@
 
 
 # Contact Me ☎️
-<a href="https://www.linkedin.com/in/tracy-atieno-618a56247"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a 
+<a href="https://www.linkedin.com/in/tracy-atieno-618a56247"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 [![](https://visitcount.itsvg.in/api?id=tracyatt&icon=0&color=0)](https://visitcount.itsvg.in)
